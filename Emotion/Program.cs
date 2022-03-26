@@ -34,6 +34,12 @@ namespace Emotion
                     case "horny":
                         ex.Horny();
                         break;
+                    case "scared":
+                        ex.Fear();
+                        break;
+                    case "surprised":
+                        ex.Surprise();
+                        break;
                     case "dead":
                         ex.Dead();
                         return;                  

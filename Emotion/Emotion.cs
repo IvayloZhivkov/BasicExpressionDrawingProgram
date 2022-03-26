@@ -87,7 +87,29 @@ namespace Emotion
             Console.WriteLine(@" \           /        ");
             Console.WriteLine(@"  \_________/     X   ");
         }
-
+        public void Surprise()
+        {
+            Console.WriteLine(@"   _________   ");
+            Console.WriteLine(@"  /         \  ");
+            Console.WriteLine(@" /  /     \  \ ");
+            Console.WriteLine(@"|   ()   ()   |");
+            Console.WriteLine(@"|     ___     |");
+            Console.WriteLine(@"|    /   \    |");
+            Console.WriteLine(@" \   \___/   / ");
+            Console.WriteLine(@"  \_________/  ");
+        }
+        public void Fear()
+        {
+            Console.WriteLine(@"   _________   ");
+            Console.WriteLine(@"  /         \  ");
+            Console.WriteLine(@" /  /     \  \ ");
+            Console.WriteLine(@"|   ()   ()   |");
+            Console.WriteLine(@"|   |     |   |");
+            Console.WriteLine(@"|    _____    |");
+            Console.WriteLine(@" \  /     \  / ");
+            Console.WriteLine(@"  \_________/  ");
+        }
+        
         public void Dorcless()
         {
             Console.WriteLine("Ó´¬π µ´⁄ ˆ ˜´´∂ ˙´¬π. ˆ åµ ´≈†®´µ´¬¥ ®ˆç˙ å˜∂ ∫´å¨†ˆƒ¨¬.");            
