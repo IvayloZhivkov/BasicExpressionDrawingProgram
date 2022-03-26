@@ -40,6 +40,9 @@ namespace Emotion
                     case "surprised":
                         ex.Surprise();
                         break;
+                    case "nothing":
+                        ex.Secret();
+                        break;
                     case "dead":
                         ex.Dead();
                         return;                  

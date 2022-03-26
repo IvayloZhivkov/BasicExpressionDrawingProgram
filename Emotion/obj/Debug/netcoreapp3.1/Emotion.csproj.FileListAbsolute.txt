@@ -12,3 +12,17 @@ D:\VSforFun\ExpressionDrawer\Emotion\obj\Debug\netcoreapp3.1\Emotion.csproj.Core
 D:\VSforFun\ExpressionDrawer\Emotion\obj\Debug\netcoreapp3.1\Emotion.dll
 D:\VSforFun\ExpressionDrawer\Emotion\obj\Debug\netcoreapp3.1\Emotion.pdb
 D:\VSforFun\ExpressionDrawer\Emotion\obj\Debug\netcoreapp3.1\Emotion.genruntimeconfig.cache
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.exe
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.deps.json
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.runtimeconfig.json
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.runtimeconfig.dev.json
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.dll
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\bin\Debug\netcoreapp3.1\Emotion.pdb
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.csproj.AssemblyReference.cache
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.AssemblyInfoInputs.cache
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.AssemblyInfo.cs
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.csproj.CoreCompileInputs.cache
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.dll
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.pdb
+D:\VSforFun\ExpressionDrawer\BasicExpressionDrawingProgram\Emotion\obj\Debug\netcoreapp3.1\Emotion.genruntimeconfig.cache

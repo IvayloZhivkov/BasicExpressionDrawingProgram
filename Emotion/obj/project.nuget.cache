@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpmKKW8T2iirjLh+k7RkclsSpaCO1O9n6gZdy7fZBk/26fKkDbn1RNISlCFHWRMY0GC7sdjXKUX22R5FvYVKyg==",
+  "dgSpecHash": "w+FGYhCLmUjnAoZvDhWC7amqsaG6QO6nuUsgdxobZhcVNG++RcRxBwLTgnF98NERNMw+UT65Q2aEWoykv6tZGg==",
   "success": true,
-  "projectFilePath": "D:\\VSforFun\\ExpressionDrawer\\Emotion\\Emotion.csproj",
+  "projectFilePath": "D:\\VSforFun\\ExpressionDrawer\\BasicExpressionDrawingProgram\\Emotion\\Emotion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

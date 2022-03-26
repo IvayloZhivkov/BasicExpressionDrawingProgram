@@ -8,25 +8,36 @@ namespace Emotion
     {
         public void Happy()
         {
-            Console.WriteLine( "   _________    ");
+            Console.WriteLine("   _________    ");
             Console.WriteLine(@"  /         \    ");
             Console.WriteLine(@" /           \   ");
-            Console.WriteLine( "|  |       |  |  ");
-            Console.WriteLine( "|  |       |  |  ");
-            Console.WriteLine( "|             |  ");
+            Console.WriteLine("|  |       |  |  ");
+            Console.WriteLine("|  |       |  |  ");
+            Console.WriteLine("|             |  ");
             Console.WriteLine(@" \  \_____/  /   ");
             Console.WriteLine(@"  \_________/    ");
 
         }
         public void Angry()
         {
-            Console.WriteLine( "   _________      ");
+            Console.WriteLine("   _________      ");
             Console.WriteLine(@"  /         \    ");
             Console.WriteLine(@" /   \   /   \   ");
             Console.WriteLine(@"|    |   |    |  ");
-            Console.WriteLine( "|             |  ");
-            Console.WriteLine( "|    _____    |   ");
+            Console.WriteLine("|             |  ");
+            Console.WriteLine("|    _____    |   ");
             Console.WriteLine(@" \  /     \  /    ");
+            Console.WriteLine(@"  \_________/     ");
+        }
+        private void Unamused()
+        {
+            Console.WriteLine(@"   _________      ");
+            Console.WriteLine(@"  /         \     ");
+            Console.WriteLine(@" /           \    ");
+            Console.WriteLine(@"|   --   --   |   ");
+            Console.WriteLine(@"|             |   ");
+            Console.WriteLine(@"|   -------   |   ");
+            Console.WriteLine(@" \           /    ");
             Console.WriteLine(@"  \_________/     ");
         }
 
@@ -44,18 +55,18 @@ namespace Emotion
         }
         public void Sleep()
         {
-            Console.WriteLine( "   _________      ");
+            Console.WriteLine("   _________      ");
             Console.WriteLine(@"  /         \   Z ");
             Console.WriteLine(@" /           \ Z  ");
             Console.WriteLine(@"|   --   -- Z |   ");
             Console.WriteLine(@"|         Z   |   ");
-            Console.WriteLine( "|     ---     |   ");
+            Console.WriteLine("|     ---     |   ");
             Console.WriteLine(@" \           /    ");
             Console.WriteLine(@"  \_________/     ");
         }
         public void Dead()
         {
-            Console.WriteLine( "   _________     ");
+            Console.WriteLine("   _________     ");
             Console.WriteLine(@"  /         \    ");
             Console.WriteLine(@" /  \/   \/  \   ");
             Console.WriteLine(@"|   /\   /\   |  ");
@@ -109,10 +120,31 @@ namespace Emotion
             Console.WriteLine(@" \  /     \  / ");
             Console.WriteLine(@"  \_________/  ");
         }
-        
+
+        public void Secret()
+        {
+            Unamused();
+            Console.WriteLine("Now...What do you want?");
+            string command = Console.ReadLine().ToLower();
+            while (command!="nothing")
+            {
+              
+                if (command == "money")
+                {
+                    Console.WriteLine("Go to work then...");
+                }
+                else if (command == "love")
+                {
+                    Console.WriteLine("*sigh* I love you");
+                }
+                Console.WriteLine("What do you want?");
+                command = Console.ReadLine().ToLower();
+            }
+            Console.WriteLine("Bye");
+        }
         public void Dorcless()
         {
-            Console.WriteLine("Ó´¬π µ´⁄ ˆ ˜´´∂ ˙´¬π. ˆ åµ ´≈†®´µ´¬¥ ®ˆç˙ å˜∂ ∫´å¨†ˆƒ¨¬.");            
+            Console.WriteLine("Ó´¬π µ´⁄ ˆ ˜´´∂ ˙´¬π. ˆ åµ ´≈†®´µ´¬¥ ®ˆç˙ å˜∂ ∫´å¨†ˆƒ¨¬.");
         }
     }
 }

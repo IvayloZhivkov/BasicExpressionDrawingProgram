@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSforFun\\ExpressionDrawer\\Emotion\\Emotion.csproj",
+      "projectUniqueName": "D:\\VSforFun\\ExpressionDrawer\\BasicExpressionDrawingProgram\\Emotion\\Emotion.csproj",
       "projectName": "Emotion",
-      "projectPath": "D:\\VSforFun\\ExpressionDrawer\\Emotion\\Emotion.csproj",
+      "projectPath": "D:\\VSforFun\\ExpressionDrawer\\BasicExpressionDrawingProgram\\Emotion\\Emotion.csproj",
       "packagesPath": "C:\\Users\\Ivo_PC\\.nuget\\packages\\",
-      "outputPath": "D:\\VSforFun\\ExpressionDrawer\\Emotion\\obj\\",
+      "outputPath": "D:\\VSforFun\\ExpressionDrawer\\BasicExpressionDrawingProgram\\Emotion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
